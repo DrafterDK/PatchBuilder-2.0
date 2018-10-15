@@ -1,0 +1,15 @@
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\bin\Debug\PatchBuilder 2.0.exe
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\bin\Debug\PatchBuilder 2.0.pdb
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.csprojResolveAssemblyReference.cache
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\MainWindow.g.cs
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\App.g.cs
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0_MarkupCompile.cache
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0_MarkupCompile.lref
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\MainWindow.baml
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.g.resources
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder_2._0.Properties.Resources.resources
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.csproj.GenerateResource.Cache
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.exe
+c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.pdb
+C:\Users\Владимир Сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\SettingWindow.g.cs
+C:\Users\Владимир Сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\SettingWindow.baml
