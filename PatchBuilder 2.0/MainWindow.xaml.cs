@@ -37,19 +37,19 @@ namespace PatchBuilder_2._0
             procUnpackDat.StartInfo.WindowStyle = ProcessWindowStyle.Maximized;
                 procUnpackDat.StartInfo.CreateNoWindow = true;
 
-               // procUnpackDat.StartInfo.Arguments = @"/C cd "+ s.Fields.PatchLocation1 + " & git stash & git fetch origin & git checkout origin/master patcher.xml";// J:\FSSIntegration\";// + s.Fields.PatchLocation1;// + " & /K hi.bat";
+                procUnpackDat.StartInfo.Arguments = @"/C cd "+ s.Fields.PatchLocation1 + " & git stash & git fetch origin & git checkout origin/master patcher.xml";// J:\FSSIntegration\";// + s.Fields.PatchLocation1;// + " & /K hi.bat";
                                                                                         //  procUnpackDat.StartInfo.FileName = @"J:\FSSIntegration\hi.bat";
                 procUnpackDat.Start();
 
 
             // Process procUnpackDat = new Process();
-            procUnpackDat.StartInfo.FileName = "cmd.exe";
-            procUnpackDat.StartInfo.WindowStyle = ProcessWindowStyle.Maximized;
-            //procUnpackDat.StartInfo.CreateNoWindow = true;
+            //procUnpackDat.StartInfo.FileName = "cmd.exe";
+            //procUnpackDat.StartInfo.WindowStyle = ProcessWindowStyle.Maximized;
+            ////procUnpackDat.StartInfo.CreateNoWindow = true;
 
-            procUnpackDat.StartInfo.Arguments = @"/C copy " + s.Fields.PatchLocation1 + "\\patcher.xml " + s.Fields.PatchLocation1 + "\\patcher_local.xml";// J:\FSSIntegration\";// + s.Fields.PatchLocation1;// + " & /K hi.bat";
-            //  procUnpackDat.StartInfo.FileName = @"J:\FSSIntegration\hi.bat";
-            procUnpackDat.Start();
+            //procUnpackDat.StartInfo.Arguments = @"/C copy " + s.Fields.PatchLocation1 + "\\patcher.xml " + s.Fields.PatchLocation1 + "\\patcher_local.xml";// J:\FSSIntegration\";// + s.Fields.PatchLocation1;// + " & /K hi.bat";
+            ////  procUnpackDat.StartInfo.FileName = @"J:\FSSIntegration\hi.bat";
+            //procUnpackDat.Start();
             //}
             //catch(Exception ex)
             //{

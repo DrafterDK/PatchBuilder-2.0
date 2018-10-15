@@ -13,3 +13,18 @@ c:\users\владимир сергеевич\documents\visual studio 2017\Projec
 c:\users\владимир сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.pdb
 C:\Users\Владимир Сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\SettingWindow.g.cs
 C:\Users\Владимир Сергеевич\documents\visual studio 2017\Projects\PatchBuilder 2.0\PatchBuilder 2.0\obj\Debug\SettingWindow.baml
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\bin\Debug\PatchBuilder 2.0.exe
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\bin\Debug\PatchBuilder 2.0.pdb
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.csprojResolveAssemblyReference.cache
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\MainWindow.g.cs
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\SettingWindow.g.cs
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\App.g.cs
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0_MarkupCompile.cache
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0_MarkupCompile.lref
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\MainWindow.baml
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\SettingWindow.baml
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.g.resources
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder_2._0.Properties.Resources.resources
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.csproj.GenerateResource.Cache
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.exe
+J:\PatchBuilder-2.0\PatchBuilder-2.0\PatchBuilder 2.0\obj\Debug\PatchBuilder 2.0.pdb
